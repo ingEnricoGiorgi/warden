@@ -16,9 +16,6 @@
         
         bootstrap: {
             deps: ['jquery', '@popperjs/core']
-        },
-        app:{
-            deps: ['jquery']
         }
     },
     map: {
